@@ -26,8 +26,8 @@ A high-performance search engine microservice for e-commerce platforms, specific
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
-   cd scrapping
+   git clone https://github.com/rpsinghcodes/product-search-api.git
+   cd product-search-api
    ```
 
 2. **Install dependencies**
